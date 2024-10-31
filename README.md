@@ -1,14 +1,39 @@
 # OptiBooster
 
-OptiBooster es un batchfile diseñado para realizar optimizaciones en juegos.
+OptiBooster es una herramienta de optimización diseñada para mejorar el rendimiento de tus juegos en PC. A continuación, se detallan sus características y el proceso de instalación.
+
 ## Características
 
-- **Optimización de memoria**: Libera RAM para mejorar el rendimiento del juego.
-- **Cierre de procesos innecesarios**: Termina aplicaciones que consumen recursos y que no son necesarias durante el juego.
-- **Configuraciones de energía**: Ajusta el perfil de energía y aplica OptiVortex
+### 🚀 Optimización de Memoria
+- **Libera RAM**: Reduce el uso de memoria para asegurar un rendimiento fluido durante el juego.
+
+### 🔧 Cierre de Procesos Innecesarios
+- **Gestión de Recursos**: Termina aplicaciones y procesos que consumen recursos y no son necesarios, permitiendo que el juego utilice más potencia de tu sistema.
+
+### ⚡ Configuraciones de Energía
+- **Ajuste de Perfil de Energía**: Optimiza la configuración de energía de tu sistema para maximizar el rendimiento.
+
+### 🌪️ Aplicación de OptiVortex
+- **Rendimiento Óptimo**: Implementa ajustes avanzados para asegurar la máxima eficiencia.
+
+---
 
 ## Instalación
 
-[**Descarga OptiBooster**](https://github.com/OptiStudioXD/OptiBooster/releases)
+Para instalar OptiBooster, sigue estos pasos:
 
-[**Descarga Beta mas reciente**](https://github.com/OptiStudioXD/OptiBooster/releases/download/beta2.0/OptiBooster.2.0Beta2,zip)
+1. **Descarga**:
+   - [**OptiBooster - Versión Estable**](https://github.com/OptiStudioXD/OptiBooster/releases)
+   - [**OptiBooster - Beta más reciente**](https://github.com/OptiStudioXD/OptiBooster/releases/download/beta2.0/OptiBooster.2.0Beta2.zip)
+
+2. **Extracción**:
+   - Extrae el contenido del archivo descargado.
+
+3. **Ejecución**:
+   - Ejecuta el archivo `OptiBooster.bat` y sigue las instrucciones en pantalla.
+
+---
+
+### 📌 Notas
+- Asegúrate de ejecutar como administrador para permitir todos los cambios necesarios.
+- Se recomienda cerrar manualmente cualquier aplicación no esencial antes de ejecutar OptiBooster para mejores resultados.
