@@ -30,7 +30,7 @@ Para instalar OptiBooster, sigue estos pasos:
    - Extrae el contenido del archivo descargado.
 
 3. **Ejecución**:
-   - Ejecuta el archivo `OptiBooster.bat` y sigue las instrucciones en pantalla.
+   - Ejecuta el archivo `OptiBooster.bat` y sigue las instrucciones en el archivo de ayuda .bat
 
 ---
 
