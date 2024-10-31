@@ -11,4 +11,4 @@ OptiBooster es un batchfile diseñado para realizar optimizaciones en juegos.
 
 [**Descarga OptiBooster**](https://github.com/OptiStudioXD/OptiBooster/releases)
 
-[**Descarga Beta mas reciente**](https://github.com/OptiStudioXD/OptiBooster)
+[**Descarga Beta mas reciente**](https://github.com/OptiStudioXD/OptiBooster/releases/download/beta2.0/OptiBooster.2.0Beta2,zip)
