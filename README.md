@@ -1,39 +1,38 @@
-# OptiBooster
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=800&size=50&pause=1000&color=188EF7&vCenter=true&width=435&lines=OptiBooster)](https://git.io/typing-svg)
 
-OptiBooster es una herramienta de optimización diseñada para mejorar el rendimiento de tus juegos en PC. A continuación, se detallan sus características y el proceso de instalación.
+## Features
 
-## Características
+### 🚀 Memory Optimization
+- **Freed RAM**: Reduces memory usage to ensure smooth performance during gameplay.
 
-### 🚀 Optimización de Memoria
-- **Libera RAM**: Reduce el uso de memoria para asegurar un rendimiento fluido durante el juego.
+### 🔧 Closing Unnecessary Processes
+- **Resource Management**: Terminates applications and processes consuming resources that are not needed, allowing the game to use more of your system's power.
 
-### 🔧 Cierre de Procesos Innecesarios
-- **Gestión de Recursos**: Termina aplicaciones y procesos que consumen recursos y no son necesarios, permitiendo que el juego utilice más potencia de tu sistema.
+### ⚡ Power Settings
+- **Power Profile Adjustment**: Optimizes your system's power settings to maximize performance.
 
-### ⚡ Configuraciones de Energía
-- **Ajuste de Perfil de Energía**: Optimiza la configuración de energía de tu sistema para maximizar el rendimiento.
-
-### 🌪️ Aplicación de OptiVortex
-- **Rendimiento Óptimo**: Implementa ajustes avanzados para asegurar la máxima eficiencia.
+### 🌪️ OptiVortex Application
+- **Optimal Performance**: Implements advanced tweaks to ensure maximum efficiency.
 
 ---
 
-## Instalación
+## Installation
 
-Para instalar OptiBooster, sigue estos pasos:
+To install OptiBooster, follow these steps:
 
-1. **Descarga**:
-   - [**OptiBooster - Versión Estable**](https://github.com/OptiStudioXD/OptiBooster/releases)
-   - [**OptiBooster - Beta más reciente**](https://github.com/OptiStudioXD/OptiBooster/releases/download/beta2.0/OptiBooster.2.0Beta2.zip)
+1. **Download**:
+   - [**OptiBooster - Stable Version**](https://github.com/OptiStudioXD/OptiBooster/releases)
+   - [**OptiBooster - Latest Beta**](https://github.com/OptiStudioXD/OptiBooster/releases/download/beta2.0/OptiBooster.2.0Beta2.zip)
 
-2. **Extracción**:
-   - Extrae el contenido del archivo descargado.
+2. **Extraction**:
+   - Extract the contents of the downloaded file.
 
-3. **Ejecución**:
-   - Ejecuta el archivo `OptiBooster.bat` y sigue las instrucciones en el archivo de ayuda .bat
+3. **Execution**:
+   - Run the `OptiBooster.bat` file and follow the instructions in the .bat help file.
 
 ---
 
-### 📌 Notas
-- Asegúrate de ejecutar como administrador para permitir todos los cambios necesarios.
-- Se recomienda cerrar manualmente cualquier aplicación no esencial antes de ejecutar OptiBooster para mejores resultados.
+### 📌 Notes
+- Make sure to run as administrator to allow all necessary changes.
+- It's recommended to manually close any non-essential applications before running OptiBooster for the best results.
+
