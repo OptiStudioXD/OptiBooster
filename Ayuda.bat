@@ -10,7 +10,7 @@ echo deshabilitando temporalmente componentes y aplicaciones que reducen el rend
 echo Restaurando todas las optimizaciones al cerrar el mismo.
 echo.
 echo Para utilizarlo tendras que editar algunos parametros del booster con el objetivo de funcionar correctamente.
-echo Tienes que darle click derecho al archivo "Azteca Turbo.bat" y tocar el boton de editar,
+echo Tienes que darle click derecho al archivo "OptiBooster.bat" y tocar el boton de editar,
 echo cuando lo hagas se te iniciara un bloc de notas con el codigo fuente del optimizador.
 echo.
 echo Lo que tienes que hacer es ir al apartado de "Aplicar el nombre del ejecutable y el titulo del juego"
